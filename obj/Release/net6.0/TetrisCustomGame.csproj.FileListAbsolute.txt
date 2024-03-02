@@ -1,0 +1,14 @@
+C:\msys64\home\NCPC\TetrisCustomGame\bin\Release\net6.0\TetrisCustomGame.exe
+C:\msys64\home\NCPC\TetrisCustomGame\bin\Release\net6.0\TetrisCustomGame.deps.json
+C:\msys64\home\NCPC\TetrisCustomGame\bin\Release\net6.0\TetrisCustomGame.runtimeconfig.json
+C:\msys64\home\NCPC\TetrisCustomGame\bin\Release\net6.0\TetrisCustomGame.dll
+C:\msys64\home\NCPC\TetrisCustomGame\bin\Release\net6.0\TetrisCustomGame.pdb
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\TetrisCustomGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\TetrisCustomGame.AssemblyInfoInputs.cache
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\TetrisCustomGame.AssemblyInfo.cs
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\TetrisCustomGame.csproj.CoreCompileInputs.cache
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\TetrisCustomGame.dll
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\refint\TetrisCustomGame.dll
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\TetrisCustomGame.pdb
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\TetrisCustomGame.genruntimeconfig.cache
+C:\msys64\home\NCPC\TetrisCustomGame\obj\Release\net6.0\ref\TetrisCustomGame.dll
